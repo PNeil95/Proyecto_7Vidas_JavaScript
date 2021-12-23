@@ -1,9 +1,7 @@
-# Proyecto_7Vidas_JavaScript
-Project to create an educational platform for pregnant women (Obstetric Psychoprophylaxis and Prenatal Stimulation) and a community of Obstetrics professionals-students. Made with the Visual Studio Code IDE using the JavaScript programming language and complemented with HTML, CSS.
+# 7Vidas
+Pagina web estática para la información sobre Salud Sexual y Reproductiva
+![Vista Preliminar](https://github.com/Paolo9518/7Vidas/blob/master/img/Captura.PNG)
 
-Web Site Static for information on sexual and reproductive health.
-
-![Project_7Vidas](https://user-images.githubusercontent.com/94016468/147174998-92c2bc7f-7b99-4b88-b877-6dbd7a97c1d6.png)
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
@@ -63,11 +61,12 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Agradezco a Youtube - Udemy por la mentoría 📢
+* Agradezco a youtube por la mentoría 📢
 * En especial a Fernando Herrera 🍺 y a mis hermanos. 
 * Muchas Gracias a todos. 🤓.
+* etc.
 
 
 
 ---
-⌨️ con ❤️ por [Paolo N. Valladares Bazalar](https://github.com/PNeil95) 😊
+⌨️ con ❤️ por [paolo9518](https://github.com/Paolo9518) 😊
