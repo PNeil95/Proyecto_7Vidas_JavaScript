@@ -51,7 +51,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Paolo Valladares** - *Trabajo Inicial* - [paolo9518](https://github.com/paolo9518)
+* **Paolo Valladares** - *Trabajo Inicial* - [Paolo N. Valladares Bazalar](https://github.com/PNeil95)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
@@ -69,4 +69,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [paolo9518](https://github.com/Paolo9518) 😊
+⌨️ con ❤️ por [Paolo N. Valladares Bazalar](https://github.com/PNeil95) 😊
