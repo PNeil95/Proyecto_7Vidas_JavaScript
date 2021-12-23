@@ -2,9 +2,9 @@
 Pagina web estática para la información sobre Salud Sexual y Reproductiva
 ![Vista Preliminar](https://github.com/Paolo9518/7Vidas/blob/master/img/Captura.PNG)
 
-## Comenzando 🚀
+## Introducción 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Project to create an educational platform for pregnant women (Obstetric Psychoprophylaxis and Prenatal Stimulation) and a community of Obstetrics professionals-students. Made with the Visual Studio Code IDE using the JavaScript programming language and complemented with HTML, CSS.._
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
